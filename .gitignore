@@ -1,0 +1,18 @@
+# Credentials and Config
+.env
+credentials.json
+token.json
+sheets_token.json
+
+# Local lists (actual prospects)
+contacts.csv
+!contacts.csv # We keep the example file we created
+
+# Python environment and cache
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# System files
+.DS_Store
